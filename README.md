@@ -1,2 +1,2 @@
 # HitoriClient
-HitoriClient cracked and deobfed. So good obfuscation techniques.
+HitoriClient crack. So good obfuscation techniques.
