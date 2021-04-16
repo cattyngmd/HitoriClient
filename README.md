@@ -5,4 +5,4 @@ HitoriClient crack. So good obfuscation techniques.
 - mrnv
 - pighax
 # 
-![gui](https://imgur.com/a/AAKEju0)
+![gui](https://i.imgur.com/kiuuUMW.png)
